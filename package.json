@@ -1,0 +1,11 @@
+{
+  "name": "pyprox",
+  "version": "1.0.0",
+  "description": "Nodejs version",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Mohammad H. Lotfazar",
+  "license": "ISC"
+}
